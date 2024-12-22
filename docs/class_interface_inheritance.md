@@ -1,4 +1,4 @@
-# DART : Class - Interface - Inheritance <img src='img/nglthu.png' align='right'> 
+# DART : Class - Interface - Inheritance <img src='https://nglthu.github.io/flutter_docs/demo/nglthu.png' align='right'> 
 
 # Class
 ```
@@ -44,7 +44,7 @@ void main() {
 
 | Android           | IPhone | Try Dart|
 | :---------------- | :------: | ----: |
-| <img src='https://nglthu.github.io/flutter_docs/demo/android1.png'> | <img src='https://nglthu.github.io/flutter_docs/demo/iphone.png'>     |  <img src='https://nglthu.github.io/flutter_docs/demo/tryDart1.png'> |
+| <img src='https://nglthu.github.io/flutter_docs/demo/android1.png'> | <img src='https://nglthu.github.io/flutter_docs/demo/iphone.png'>     |  <img src='https://nglthu.github.io/flutter_docs/demo/tryDart2.png'> |
 
 | Web|
 | :----------------: | 
@@ -58,4 +58,4 @@ void main() {
 <img src="https://nglthu.github.io/flutter_docs/demo/LearnCode3.png">
 
 
-# Hanoi, December 2024 <img src='img/logo.png' align='right'> 
+# Hanoi, December 2024 <img src='https://nglthu.github.io/flutter_docs/demo/logo.png' align='right'> 
