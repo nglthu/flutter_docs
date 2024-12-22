@@ -1,5 +1,23 @@
 # DART : Class - Interface - Inheritance
 # Class
+```
+class Sinhvien{
+    String ten = "Nguyen Lan Anh";
+    int tuoi = 19 ;
+  
+  void showInfo(){
+    print(ten);
+  }
+}
+void main() {
+  
+  Sinhvien sv = new Sinhvien();
+  sv.showInfo();
+//Nguyen Lan Anh
+  
+}
+
+```
 
 # Interface
 
