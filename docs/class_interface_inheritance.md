@@ -7,13 +7,23 @@ class Sinhvien{
   
   void showInfo(){
     print(ten);
+    print(tuoi);
   }
+  void setSinhvien(String setTen, int setTuoi){
+    ten = setTen;
+    tuoi = setTuoi;
+  }
+  
 }
+
 void main() {
   
-  Sinhvien sv = new Sinhvien();
+  //Sinhvien sv = new Sinhvien();
+  var sv = new Sinhvien();
   sv.showInfo();
-//Nguyen Lan Anh
+  sv.setSinhvien('Nguyen Hoang Manh', 20);
+  sv.showInfo(); //Nguyen Hoang Manh 20
+  
   
 }
 
