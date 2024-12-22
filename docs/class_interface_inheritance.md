@@ -1,4 +1,5 @@
-# DART : Class - Interface - Inheritance
+# DART : Class - Interface - Inheritance <img src='img/nglthu.png' align='right'> 
+
 # Class
 ```
 class Sinhvien{
@@ -41,9 +42,20 @@ void main() {
 
 # Code (Try Dart) or Flutter App
 
+| Android           | IPhone | Try Dart|
+| :---------------- | :------: | ----: |
+| <img src='https://nglthu.github.io/flutter_docs/demo/android.png'> | <img src='https://nglthu.github.io/flutter_docs/demo/iphone.png'>     |  <img src='https://nglthu.github.io/flutter_docs/demo/tryDart.png'> |
+
+| Web|
+| :----------------: | 
+| <img src='https://nglthu.github.io/flutter_docs/demo/LearnCode3.png'> | 
+
 ## Try Dart
 <img src="https://nglthu.github.io/flutter_docs/demo/tryDart.png">
 
 ## Current Flutter App
 
 <img src="https://nglthu.github.io/flutter_docs/demo/LearnCode3.png">
+
+
+# Hanoi, December 2024 <img src='img/logo.png' align='right'> 
