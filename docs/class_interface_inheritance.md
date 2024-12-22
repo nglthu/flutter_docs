@@ -40,6 +40,23 @@ void main() {
 
 # Inheritance
 
+```
+class Shape{
+  String hello = "Say hello";
+  void cal_area(){
+    print("calling caculation of area for Shape");
+  }
+}
+class Circle extends Shape{
+  
+}
+void main() {
+  Circle c = new Circle();
+  print(c.hello); //Say hello
+}
+
+```
+
 # Code (Try Dart) or Flutter App
 
 | Android           | IPhone | Try Dart|
