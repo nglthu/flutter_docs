@@ -13,7 +13,13 @@ class Sinhvien{
     ten = setTen;
     tuoi = setTuoi;
   }
-  
+
+ //Truyen gia tri cho phuong thuc thong qua doi so
+  void setSinhvienDoiSo({required String setTen, required int setTuoi}){
+    ten = setTen;
+    tuoi = setTuoi;
+  }
+
 }
 
 void main() {
