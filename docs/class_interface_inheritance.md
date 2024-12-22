@@ -53,9 +53,13 @@ void main() {
 ## Try Dart
 <img src="https://nglthu.github.io/flutter_docs/demo/tryDart.png">
 
-## Current Flutter App
+## Android App with Visual Studio Code and Simulatio
 
-<img src="https://nglthu.github.io/flutter_docs/demo/LearnCode3.png">
+<img src="https://nglthu.github.io/flutter_docs/demo/android.png">
+
+## IOS App with XCode and Simulation
+
+<img src="https://nglthu.github.io/flutter_docs/demo/IOS.png">
 
 
 # Hanoi, December 2024 <img src='https://nglthu.github.io/flutter_docs/demo/logo.png' align='right'> 
