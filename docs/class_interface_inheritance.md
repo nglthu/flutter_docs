@@ -59,7 +59,12 @@ void main() {
 
 ## IOS App with XCode and Simulation
 
+Open the folder of IOS on the Xcode
+
 <img src="https://nglthu.github.io/flutter_docs/demo/IOS.png">
+
+<img src="https://nglthu.github.io/flutter_docs/demo/Xcode.png">
+
 
 
 # Hanoi, December 2024 <img src='https://nglthu.github.io/flutter_docs/demo/logo.png' align='right'> 
