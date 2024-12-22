@@ -4,9 +4,9 @@ Purpose: Learn Dart and Apply to the current application
 
 ## Learn to code
 
-<img src="demo/LearnCode3.png">
-<img src='demo/LearnCode2.png'>
-<img src='demo/learnCode1.png'>
+<img src="https://nglthu.github.io/flutter_docs/demo/LearnCode3.png">
+<img src='https://nglthu.github.io/flutter_docs/demo/LearnCode2.png'>
+<img src='https://nglthu.github.io/flutter_docs/demo/learnCode1.png'>
 
 
 dartpad.dartlang.org
