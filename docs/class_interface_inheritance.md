@@ -37,6 +37,27 @@ void main() {
 ```
 
 # Interface
+Interface in Dart is Abstract Class
+```
+//Interface
+abstract class  IsLove{
+  void love();
+  
+}
+//Class implement for Interface (abstract class)
+class LovePerform implements IsLove{
+  @override
+  void love(){
+    print("I Love you");
+  }
+}
+void main() {
+  LovePerform lovePer = new LovePerform();
+  lovePer.love();
+}
+
+```
+<img src='demo/interface.png'>
 
 # Inheritance
 
