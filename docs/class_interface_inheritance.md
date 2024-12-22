@@ -23,4 +23,11 @@ void main() {
 
 # Inheritance
 
+# Code (Try Dart) or Flutter App
+
+## Try Dart
+<img src="https://nglthu.github.io/flutter_docs/demo/tryDart.png">
+
+## Current Flutter App
+
 <img src="https://nglthu.github.io/flutter_docs/demo/LearnCode3.png">
