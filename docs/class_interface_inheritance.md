@@ -57,7 +57,7 @@ void main() {
 }
 
 ```
-<img src='demo/interface.png'>
+<img src="https://nglthu.github.io/flutter_docs/demo/Interface.png">
 
 # Inheritance
 
