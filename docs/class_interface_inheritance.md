@@ -91,7 +91,7 @@ void main() {
 ## Try Dart
 <img src="https://nglthu.github.io/flutter_docs/demo/tryDart.png">
 
-## Android App with Visual Studio Code and Simulatio
+## Android App with Visual Studio Code and Simulation
 
 <img src="https://nglthu.github.io/flutter_docs/demo/android.png">
 
