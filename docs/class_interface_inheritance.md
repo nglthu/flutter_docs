@@ -97,7 +97,11 @@ Redirecting constructor: Forwards calls to another constructor in the same class
 # Note:
 
 ```
-Static: It can be accessed without creating an Ojbect
+Static:
+
+Persist values between instances of a class
+
+It can be accessed without creating an Ojbect
 ```
 
 # Code (Try Dart) or Flutter App
