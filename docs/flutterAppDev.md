@@ -32,9 +32,12 @@ String getMyProfile(){
 import './myprofile.dart' show Myprofile;
 
 ```
-<img src="https://nglthu.github.io/flutter_docs/demo/Interface.png">
+
 
 # Use in the main
+<img src="https://nglthu.github.io/flutter_docs/demo/class_method.png">
+
+<img src="https://nglthu.github.io/flutter_docs/demo/var_inside_main.png">
 
 
 # Note in Widget
