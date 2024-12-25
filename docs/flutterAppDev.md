@@ -1,7 +1,7 @@
 # DART : Class - Interface - Inheritance <img src='https://nglthu.github.io/flutter_docs/demo/nglthu.png' align='right'> 
 
-# Class
-Add new class myprofile.dart
+# Class: 
+Add new class <b>myprofile.dart</b>
 
 ```
 class Myprofile{
@@ -33,6 +33,9 @@ import './myprofile.dart' show Myprofile;
 
 ```
 <img src="https://nglthu.github.io/flutter_docs/demo/Interface.png">
+
+# Use in the main
+
 
 # Note in Widget
 
