@@ -42,6 +42,9 @@ import './myprofile.dart' show Myprofile;
 
 <img src="https://nglthu.github.io/flutter_docs/demo/var_inside_main.png">
 
+# Development
+
+<img src="https://nglthu.github.io/flutter_docs/demo/iosdemo.png">
 
 # Note in Widget
 
