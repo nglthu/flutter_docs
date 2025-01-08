@@ -61,7 +61,7 @@ Column(
 
 ## Column layout
 
-<img src="https://nglthu.github.io/flutter_docs/demo/android_demo.png">
+<img src="https://nglthu.github.io/flutter_docs/demo/android_demo.png" size = 50%>
 
 # Row Column : Axis and CrossAxis
 
