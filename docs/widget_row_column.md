@@ -19,7 +19,7 @@ You can specify how child widgets use the Row's or Column's available space.
 ```
 
 # Row
-<img src="https://nglthu.github.io/flutter_docs/demo/row.png">
+<img src="https://nglthu.github.io/flutter_docs/demo/test1.png">
 
 ```
 body: Row(
@@ -37,26 +37,16 @@ body: Row(
 ```
 
 # Column
-Interface in Dart is Abstract Class
-```
-//Interface
-abstract class  IsLove{
-  void love();
-  
-}
-//Class implement for Interface (abstract class)
-class LovePerform implements IsLove{
-  @override
-  void love(){
-    print("I Love you");
-  }
-}
-void main() {
-  LovePerform lovePer = new LovePerform();
-  lovePer.love();
-}
+
+<img src="https://nglthu.github.io/flutter_docs/demo/test2.png">
 
 ```
+
+
+```
+
+# Demo
+
 <img src="https://nglthu.github.io/flutter_docs/demo/row_columndemo.png">
 
 
@@ -66,18 +56,7 @@ void main() {
 <img src="https://nglthu.github.io/flutter_docs/demo/row_colum_axis.png">
 
 ```
-Dart implements many types of constructors. Except for default constructors, these functions use the same name as their class.
 
-+ Generative constructors: Creates new instances and initializes instance variables.
-
-+ Default constructors: Used to create a new instance when a constructor hasn't been specified. It doesn't take arguments and isn't named.
-
-+ Named constructors: Clarifies the purpose of a constructor or allows the creation of multiple constructors for the same class.
-
-+ Constant constructors: Creates instances as compile-type constants.
-
-+ Factory constructors: Either creates a new instance of a subtype or returns an existing instance from cache.
-Redirecting constructor: Forwards calls to another constructor in the same class.
 ```
 # Reference:
 
