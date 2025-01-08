@@ -1,42 +1,24 @@
 # DART : Widget Row - Colum <img src='https://nglthu.github.io/flutter_docs/demo/nglthu.png' align='right'> 
 
 # Row
-```
-class Sinhvien{
-    String ten = "Nguyen Lan Anh";
-    int tuoi = 19 ;
-  
-  void showInfo(){
-    print(ten);
-    print(tuoi);
-  }
-  void setSinhvien(String setTen, int setTuoi){
-    ten = setTen;
-    tuoi = setTuoi;
-  }
-
- //Truyen gia tri cho phuong thuc thong qua doi so
-  void setSinhvienDoiSo({required String setTen, required int setTuoi}){
-    ten = setTen;
-    tuoi = setTuoi;
-  }
-
-}
-
-void main() {
-  
-  //Sinhvien sv = new Sinhvien();
-  var sv = new Sinhvien();
-  sv.showInfo();
-  sv.setSinhvien('Nguyen Hoang Manh', 20);
-  sv.showInfo(); //Nguyen Hoang Manh 20
-  
-  
-}
+<img src="https://nglthu.github.io/flutter_docs/demo/row.png">
 
 ```
+body: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        children: [
+          Image.asset('assets/test1.png',
+          fit: BoxFit.contain,
+          width: width* 0.5),
+          Image.asset('assets/test2.png',
+          fit: BoxFit.contain,
+          width: width* 0.5),
+          
+        ],
+      ),
+```
 
-# Colum
+# Column
 Interface in Dart is Abstract Class
 ```
 //Interface
@@ -57,7 +39,7 @@ void main() {
 }
 
 ```
-<img src="https://nglthu.github.io/flutter_docs/demo/Interface.png">
+<img src="https://nglthu.github.io/flutter_docs/demo/row_columndemo.png">
 
 
 # Reference
