@@ -1,5 +1,23 @@
 # DART : Widget Row - Colum <img src='https://nglthu.github.io/flutter_docs/demo/nglthu.png' align='right'> 
 
+# Main points in the Lay out multiple widgets vertically and horizontally
+
+```
+
+Row and Column are two of the most commonly used layout patterns.
+
+Row and Column each take a list of child widgets.
+
+A child widget can itself be a Row, Column, or other complex widget.
+
+You can specify how a Row or Column aligns its children, both vertically and horizontally.
+
+You can stretch or constrain specific child widgets.
+
+You can specify how child widgets use the Row's or Column's available space.
+
+```
+
 # Row
 <img src="https://nglthu.github.io/flutter_docs/demo/row.png">
 
