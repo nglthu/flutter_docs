@@ -71,6 +71,10 @@ Column(
 
 ## Layout : Combination
 
+<img src="https://nglthu.github.io/flutter_docs/demo/layout_row_column.png">
+
+
+
 ```
 Container(
           padding: const EdgeInsets.all(20),
