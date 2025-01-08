@@ -63,14 +63,42 @@ Column(
 
 <img src="https://nglthu.github.io/flutter_docs/demo/android_demo.png" size = 50%>
 
-# Row Column : Axis and CrossAxis
+# Row Column Layout
 
+## Row Column Axis and CrossAxis
 
 <img src="https://nglthu.github.io/flutter_docs/demo/row_colum_axis.png">
 
-```
+## Layout : Combination
 
 ```
+Container(
+          padding: const EdgeInsets.all(20),
+          child:
+          Row(mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            children: [
+            Column(
+               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+               children: [
+                Image.asset('assets/test1.png',
+                fit: BoxFit.contain, width: width * 0.45),
+               ]
+              
+            ),
+            Column(
+               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+               children: [
+                Image.asset('assets/test2.png',
+                fit: BoxFit.contain, width: width * 0.45),
+               ]
+            )
+          ],)
+        )
+
+```
+
+
+
 # Reference:
 
 [Lay out multiple widgets vertically and horizontally](https://docs.flutter.dev/ui/layout#)
