@@ -61,7 +61,7 @@ Column(
 
 ## Column layout
 
-<img src="https://nglthu.github.io/flutter_docs/demo/android_demo.png" size = 50%>
+<img src="https://nglthu.github.io/flutter_docs/demo/android_demo.png" width =200>
 
 # Row Column Layout
 
