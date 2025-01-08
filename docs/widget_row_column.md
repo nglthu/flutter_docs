@@ -100,7 +100,58 @@ Container(
         )
 
 ```
+# Mix layout: Combination between Column and Row
 
+Example :
+
+```
+Column(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        children: [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            children: [
+              ClipRRect(
+                borderRadius: BorderRadius.circular(8),
+                child: Image.network(
+                  'https://lethunguyen.github.io/MobileDev/demo/nglthu2.png',
+                  width: width * 0.98,
+                  fit: BoxFit.cover,
+                ),
+              ),
+            ],
+          ),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            children: [
+              Image.asset('assets/layout.png',
+                  fit: BoxFit.contain, width: width * 0.90),
+            ],
+          ),
+          Row(mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: [
+            Column(mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: [
+              Image.asset('assets/test1.png',
+                  fit: BoxFit.contain, width: width * 0.7),
+              Image.asset('assets/test2.png',
+                  fit: BoxFit.contain, width: width * 0.7),
+            ]),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                Text(
+                  'Hello 30%',
+                  style: TextStyle(
+                    fontSize: 32,
+                    color: Colors.amber,
+                  ),
+                )
+              ],
+            ),
+          ]),
+        ],
+      ),
+
+```
 
 
 # Reference:
