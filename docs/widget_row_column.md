@@ -100,7 +100,7 @@ Container(
         )
 
 ```
-# Mix layout: Combination between Column and Row
+# Mix layout: Mix between Column and Row
 
 Example :
 
@@ -152,7 +152,9 @@ Column(
       ),
 
 ```
+Testing
 
+<img src="https://nglthu.github.io/flutter_docs/demo/mixLayout.png">
 
 # Reference:
 
