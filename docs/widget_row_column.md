@@ -41,14 +41,27 @@ body: Row(
 <img src="https://nglthu.github.io/flutter_docs/demo/test2.png">
 
 ```
+Column(
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          children: [
+            Image.asset('assets/test1.png',
+                fit: BoxFit.contain, width: width * 0.95),
+            Image.asset('assets/test2.png',
+                fit: BoxFit.contain, width: width * 0.95),
+          ],
+        ),
 
 
 ```
 
 # Demo
+## Row layout
 
 <img src="https://nglthu.github.io/flutter_docs/demo/row_columndemo.png">
 
+## Column layout
+
+<img src="https://nglthu.github.io/flutter_docs/demo/android_demo.png">
 
 # Row Column : Axis and CrossAxis
 
