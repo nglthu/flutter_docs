@@ -45,7 +45,8 @@ void main() {
 # Row Column : Axis and CrossAxis
 
 
-<img src="https://nglthu.github.io/flutter_docs/demo/row_colum_axis">
+<img src="https://nglthu.github.io/flutter_docs/demo/row_colum_axis.png">
+
 ```
 Dart implements many types of constructors. Except for default constructors, these functions use the same name as their class.
 
