@@ -1,6 +1,6 @@
 # DART : Widget Row - Colum <img src='https://nglthu.github.io/flutter_docs/demo/nglthu.png' align='right'> 
 
-# Main points in the Lay out multiple widgets vertically and horizontally
+# Main points in the Layout of multiple widgets vertically and horizontally
 
 ```
 
