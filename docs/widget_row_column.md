@@ -61,14 +61,13 @@ Dart implements many types of constructors. Except for default constructors, the
 + Factory constructors: Either creates a new instance of a subtype or returns an existing instance from cache.
 Redirecting constructor: Forwards calls to another constructor in the same class.
 ```
-# Note:
+# Reference:
+
+[Lay out multiple widgets vertically and horizontally](https://docs.flutter.dev/ui/layout#)
 
 ```
-Static:
-
-Persist values between instances of a class
-
-It can be accessed without creating an Ojbect
+Assets folder in the root
+configure assets in pubspec.yaml
 ```
 
 
