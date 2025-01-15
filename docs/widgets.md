@@ -4,37 +4,32 @@
 
 ```
 
-Row and Column are two of the most commonly used layout patterns.
+Container: Row and Column 
+Container: Stack and Card
+Repeated Items: ListView, GridView, ListTile
 
-Row and Column each take a list of child widgets.
 
-A child widget can itself be a Row, Column, or other complex widget.
-
-You can specify how a Row or Column aligns its children, both vertically and horizontally.
-
-You can stretch or constrain specific child widgets.
-
-You can specify how child widgets use the Row's or Column's available space.
 
 ```
 
-# Row
-<img src="https://nglthu.github.io/flutter_docs/demo/test1.png">
+# International Date and Time intl
+
+## Add intl in pubspec.yaml
+
+<img src="https://nglthu.github.io/flutter_docs/demo/intl.png">
+
+
+## Run 
 
 ```
-body: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        children: [
-          Image.asset('assets/test1.png',
-          fit: BoxFit.contain,
-          width: width* 0.5),
-          Image.asset('assets/test2.png',
-          fit: BoxFit.contain,
-          width: width* 0.5),
-          
-        ],
-      ),
+dart pub add intl
+
+flutter pub add intl
+
 ```
+<img src="https://nglthu.github.io/flutter_docs/demo/dart_pub_get_intl.png">
+
+<img src="https://nglthu.github.io/flutter_docs/demo/flutter_pub_get_intl.png">
 
 # Column
 
