@@ -12,7 +12,7 @@ Repeated Items: ListView, GridView, ListTile
 
 ```
 
-# International Date and Time intl
+# International Date and Time <b><i>intl</b></i>
 
 ## Add intl in pubspec.yaml
 
