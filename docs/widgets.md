@@ -31,7 +31,9 @@ flutter pub add intl
 
 <img src="https://nglthu.github.io/flutter_docs/demo/flutter_pub_get_intl.png">
 
-# Column
+# TextEditingController
+
+[Reference: TextEditingController](https://api.flutter.dev/flutter/widgets/TextEditingController-class.html)
 
 <img src="https://nglthu.github.io/flutter_docs/demo/test2.png">
 
